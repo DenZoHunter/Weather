@@ -30,5 +30,13 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/click_data" />
 
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/click_cycle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cycle"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/click_data_copy" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
