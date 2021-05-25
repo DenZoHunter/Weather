@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="click_me">Click Listener</string>
+    <string name="data_click">show data</string>
+    <string name="data_copy_click">data copy</string>
+    <string name="cycle">show cycle</string>
 </resources>
